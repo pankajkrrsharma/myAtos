@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="My Atos Syntel test Automation Suite"  >
+  <test name="My Atos Syntel test" >
+    <classes>
+       <class name="com.learning.maven.myatosSyntel.LoginTest" />
+    <class name="com.learning.maven.myatosSyntel.HomeTest" />
+    
+    </classes>
+ 
+  </test>
+</suite>
